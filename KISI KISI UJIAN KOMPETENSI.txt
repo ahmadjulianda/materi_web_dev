@@ -1,0 +1,40 @@
+## KISI KISI UJK (UJIAN KOMPETENSI)
+
+# UJIAN PRAKTEK :
+1. peralatan yg disediakan :
+node.js
+git
+vs code
+thunder / postman
+browser/internet
+
+untuk backend disuruh buat : menggunakan express (melakukan proses CRUD untuk data-data (mis siswa).
+data-datanya kemungkinan besar pakai SQL
+
+untuk fronted : pakai REACT
+tampilan : bebas
+menampilkan isi dari databases
+ada tombol untuk memasukkan data, tombol hapus, tombol update
+
+Commit dan push ke Git
+
+Waktu kalau tidak salah 180 menit (3 jam)
+
+# UJIAN TES TULIS
+pilihan berganda
+40 soal, 50 menit
+
+KISI KISI TES TULIS :
+1. User Interface
+2. Teks-Teks sederhana seperti di HTML
+3. entitas itu apa ?
+4. tools untuk buat ERD apa saja ?
+5. diagram untuk menampilkan relasi antar entitas (mis : npm install untuk apa)
+6. kenapa kita harus Menyusun folder sesuai materi yg sudah dipelajari ?
+7. README untuk apa ?
+8. Penggalan function nanti akan ditanya UNTUK APA ? dan outputnya apa ?
+9. penggalan coding pengulangan / iterasi (yg ditanya outputnya)
+10. penulisan function atau object yg benar
+11. JOIN di database
+12. store prosedur (database)
+13. fs.readFileSync dan fs.writeFileSync
